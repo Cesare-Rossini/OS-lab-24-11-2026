@@ -1,0 +1,2 @@
+./puntini.sh 180 &
+kill -SIGKILL $!

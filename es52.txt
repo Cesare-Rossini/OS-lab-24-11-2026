@@ -1,0 +1,7 @@
+./puntini.sh 180
+^Z
+bg
+fg
+^Z
+bg
+kill -9 $!
